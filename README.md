@@ -22,3 +22,4 @@ VKontakte Social Network Using Machine and Deep Learning Methods // Computationa
 and Computational Ontologies. Vol. 7 (Proceedings of the XXVI International Joint
 Scientific Conference «Internet and Modern Society», IMS-2023, St. Petersburg, June 26–28, 2023). —
 St.Petersburg: ITMO University, 2023. P. 12–22. DOI: 10.17586/2541-9781-2023-7-12–22 
+https://scholar.google.com/scholar_url?url=https://ims.itmo.ru/File/docs/IMS-2023_Lingvo_v1.pdf%23page%3D12&hl=ru&sa=X&d=14313465105493062565&ei=FqFoZa33HonemQHkpK3wAQ&scisig=AFWwaeak0dRkvdWOPWeigzsdKAxF&oi=scholaralrt&hist=aCrViNkAAAAJ:4759714380015671822:AFWwaeZWBc6L6tuBcF1jIdfvtTaB&html=&pos=5&folt=cit
